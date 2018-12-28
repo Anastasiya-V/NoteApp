@@ -29,7 +29,7 @@ namespace NoteAppUI
 
 		private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 		{
-			System.Diagnostics.Process.Start("http://lplans@icloud.com");
+			System.Diagnostics.Process.Start("http://anastasiya.us99@gmail.com");
 		}
 
 		private void textBox5_TextChanged(object sender, EventArgs e)
@@ -39,7 +39,17 @@ namespace NoteAppUI
 
 		private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 		{
-			System.Diagnostics.Process.Start("https://github.com/TVA777/NoteApp");
+			System.Diagnostics.Process.Start("https://github.com/Anastasiya-V/NoteApp");
 		}
-	}
+
+        private void textBox6_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox7_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
 }
